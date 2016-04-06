@@ -4,6 +4,6 @@
 [submodule "sub2"]
 	path = sub2
 	url = https://github.com/vishnushelar/sub2.git
-[submodule "common/--force"]
+[submodule "common/sub3"]
 	path = common/sub3
 	url = https://github.com/vishnushelar/sub3.git
